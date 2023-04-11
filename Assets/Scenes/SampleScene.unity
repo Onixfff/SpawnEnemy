@@ -152,8 +152,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02f9faf395635c242bacdc8e153f95d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _delaySpawn: 2
-  _enemy: {fileID: 6302005145178202465, guid: 3aadfc1b947721041b8b10e9e429c8d4, type: 3}
+  _delaySpawn: 1
+  _enemy: {fileID: 2100711918503424095, guid: 3aadfc1b947721041b8b10e9e429c8d4, type: 3}
 --- !u!4 &80335938
 Transform:
   m_ObjectHideFlags: 0

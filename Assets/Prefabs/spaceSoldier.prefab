@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7774474891666077239}
   - component: {fileID: 7366457473924465476}
+  - component: {fileID: 2100711918503424095}
   m_Layer: 0
   m_Name: spaceSoldier
   m_TagString: Untagged
@@ -84,3 +85,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2100711918503424095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6302005145178202465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43464ae6f7bfd9a468c6d92aacc60473, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _enemyPrefab: {fileID: 0}
